@@ -4,11 +4,11 @@
   "description": "Toggle button demo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com-dci:FbW41/toggle-button.git"
+    "url": "https://FbW41.github.io/toggle-button"
   },
   "keywords": [],
   "author": "Helon Roop",
